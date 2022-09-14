@@ -1,1 +1,1 @@
-https://iflocky.github.io/rsschool-cv/cv
+https://ifloky.github.io/rsschool-cv/cv

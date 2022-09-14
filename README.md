@@ -1,1 +1,1 @@
-https://iflocky.github.io/rsschool-cv/cv
+init: start rsschool-cv-html

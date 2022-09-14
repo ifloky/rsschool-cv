@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ifloky.github.io/rsschool-cv/cv

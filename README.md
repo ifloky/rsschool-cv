@@ -1,1 +1,1 @@
-init: start rsschool-cv-html
+https://ifloky.github.io/rsschool-cv/cv

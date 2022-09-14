@@ -5,8 +5,11 @@
 ## Contact information:
 
 **Phone:** +375 29 6635076
+
 **E-mail:** Petrenko1702@gmail.com
+
 **Telegram:** @IFlocky
+
 [GitHub](https://github.com/ifloky/)
 
 **## About Myself:**

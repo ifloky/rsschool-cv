@@ -30,8 +30,6 @@
 
 ## **About Myself:**
 
-While studying at the university, I learned about web development, but did not attach much importance to this because I studied at the metallurgy. After graduating from the university, master's degree and having worked for a couple of years as an engineer at a metallurgical plant, I realized that "you can't cook porridge" here and began to study layout.
-
 After half a year of studying HTML and CSS, I got a job as a webmaster in an online casino. While working in a casino, I began to master JS. To consolidate what I learned, I started taking the JavaScript/Front-end course from The Rolling Scopes community.
 
 I am interested in web development because this profession provides endless opportunities for professional growth,

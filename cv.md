@@ -23,6 +23,7 @@ in addition, there are a huge number of free quality resources for self-educatio
 
 I believe that my ability to learn and acquire new skills will help me become an experienced Frontend Developer.
 
+
 ## **Skills:**
 
 - HTML5, CSS3

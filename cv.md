@@ -12,9 +12,9 @@
 
 ## Contact
 
-tel. +375296635076
-e-mail petrenko1702@yandex.ru
-Linkedin https://www.linkedin.com/in/maksim~petrenko/
+- tel. +375296635076
+- e-mail petrenko1702@yandex.ru
+- Linkedin https://www.linkedin.com/in/maksim~petrenko/
 
 ## About myself
 

@@ -1,38 +1,52 @@
-# Petrenko Maksim
+## Petrenko Maksim (junior frontend developer)
 
-## Junior Frontend Developer
+- [Contact](#Contact)
+- [About](#about)
+- [Skills](#skills)
+- [Code](#Code)
+- [Experience](#experience)
+- [Education](#education)
+- [Languages](#languages)
 
-## Contact information:
 
-**Phone:** +375 29 6635076
+## Contact
 
-**E-mail:** Petrenko1702@gmail.com
+tel. +375296635076
+e-mail petrenko1702@yandex.ru
+Linkedin https://www.linkedin.com/in/maksim~petrenko/
 
-**Telegram:** @IFlocky
+## About myself
 
-[GitHub](https://github.com/ifloky/)
+Responsible, communicative, executive front-end developer who knows how to overcome problems and find solutions to difficult situations
 
-## **About Myself:**
+## Skills
 
-While studying at the university, I learned about web development, but did not attach much importance to this because I studied at the metallurgy. After graduating from the university, master's degree and having worked for a couple of years as an engineer at a metallurgical plant, I realized that "you can't cook porridge" here and began to study layout.
+1. HTML
+2. CSS
+3. JS
+4. React
+5. Git
+6. Webpack
+7. SQL
+8. SEO
 
-After half a year of studying HTML and CSS, I got a job as a webmaster in an online casino. While working in a casino, I began to master JS. To consolidate what I learned, I started taking the JavaScript/Front-end course from The Rolling Scopes community.
+## Code examples
 
-I am interested in web development because this profession provides endless opportunities for professional growth,
-in addition, there are a huge number of free quality resources for self-education and a large community of developers.
+https://react-cv-petrenko.netlify.app/
 
-I believe that my ability to learn and acquire new skills will help me become an experienced Frontend Developer.
+## Experience
 
-## **Skills:**
+2 years of experience in casino site support, development of landing pages for promotions, updating content and graphics, as well as developing pet projects on js and react
 
-- HTML5, CSS3
-- JavaScript Vanilla
-- Git, GitHub
-- VS Code, Sublime Text
-- Adobe Photoshop, Figma
+## Education
 
-## **Languages:**
+- Master of Engineering
+- Self-learning
+- It-academy course on SEO promotion
 
-- Russian - Native
-- English - A2
-- Ukrainian - Upper-intermediate
+## Languages
+
+- English B1
+- Russian - native
+- Ukrainian - fluency
+
